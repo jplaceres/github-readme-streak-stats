@@ -2,3 +2,5 @@ composer.phar
 /vendor/
 .env
 .vscode/
+.vercel/
+READMEnotes.md
